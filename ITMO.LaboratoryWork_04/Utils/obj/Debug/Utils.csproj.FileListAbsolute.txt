@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\bin\Debug\Utils.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\bin\Debug\Utils.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\bin\Debug\Utils.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\obj\Debug\Utils.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_04\Utils\obj\Debug\Utils.pdb
