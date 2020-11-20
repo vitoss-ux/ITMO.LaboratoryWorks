@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\bin\Debug\Enum.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\bin\Debug\Enum.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\bin\Debug\Enum.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\obj\Debug\Enum.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\obj\Debug\Enum.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\Enum\obj\Debug\Enum.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\bin\Debug\ITMO.LaboratoryWork_03.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\bin\Debug\ITMO.LaboratoryWork_03.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\bin\Debug\ITMO.LaboratoryWork_03.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\obj\Debug\switch_case.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\obj\Debug\ITMO.LaboratoryWork_03.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\ITMO.LaboratoryWork_03\obj\Debug\ITMO.LaboratoryWork_03.pdb

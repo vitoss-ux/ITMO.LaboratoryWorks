@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\bin\Debug\LeapYear.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\bin\Debug\LeapYear.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\bin\Debug\LeapYear.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\obj\Debug\LeapYear.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_03\LeapYear\obj\Debug\LeapYear.pdb
