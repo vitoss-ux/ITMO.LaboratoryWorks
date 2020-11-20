@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\bin\Debug\ITMO.LaboratoryWork_01.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\bin\Debug\ITMO.LaboratoryWork_01.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\bin\Debug\ITMO.LaboratoryWork_01.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\obj\Debug\ITMO.LaboratoryWork_01.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\obj\Debug\ITMO.LaboratoryWork_01.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\obj\Debug\ITMO.LaboratoryWork_01.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_01\ITMO.LaboratoryWork_01\obj\Debug\ITMO.LaboratoryWork_01.pdb

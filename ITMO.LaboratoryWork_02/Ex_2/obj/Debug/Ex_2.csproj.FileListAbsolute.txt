@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\bin\Debug\Ex_2.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\bin\Debug\Ex_2.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\bin\Debug\Ex_2.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\obj\Debug\Ex_2.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\obj\Debug\Ex_2.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_02\Ex_2\obj\Debug\Ex_2.pdb
