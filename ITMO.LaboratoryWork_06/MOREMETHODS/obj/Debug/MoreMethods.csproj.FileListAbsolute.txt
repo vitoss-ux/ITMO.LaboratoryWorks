@@ -1,0 +1,12 @@
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\bin\Debug\MoreMethods.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\bin\Debug\MoreMethods.pdb
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.csprojAssemblyReference.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.pdb
+C:\Users\Виталий\Desktop\лаба 6\MOREMETHODS\bin\Debug\MoreMethods.exe
+C:\Users\Виталий\Desktop\лаба 6\MOREMETHODS\bin\Debug\MoreMethods.pdb
+C:\Users\Виталий\Desktop\лаба 6\MOREMETHODS\obj\Debug\MoreMethods.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\лаба 6\MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\лаба 6\MOREMETHODS\obj\Debug\MoreMethods.exe
+C:\Users\Виталий\Desktop\лаба 6\MOREMETHODS\obj\Debug\MoreMethods.pdb
