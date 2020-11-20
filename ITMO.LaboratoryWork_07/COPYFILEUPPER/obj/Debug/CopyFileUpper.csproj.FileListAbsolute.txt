@@ -1,0 +1,12 @@
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csprojAssemblyReference.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb
+C:\Users\Виталий\Desktop\лаба 7\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+C:\Users\Виталий\Desktop\лаба 7\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+C:\Users\Виталий\Desktop\лаба 7\COPYFILEUPPER\obj\Debug\CopyFileUpper.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\лаба 7\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\лаба 7\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+C:\Users\Виталий\Desktop\лаба 7\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb

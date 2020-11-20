@@ -1,0 +1,12 @@
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.pdb
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.pdb
+C:\Users\Виталий\Desktop\лаба 7\BANK\bin\Debug\MoreMethods.exe
+C:\Users\Виталий\Desktop\лаба 7\BANK\bin\Debug\MoreMethods.pdb
+C:\Users\Виталий\Desktop\лаба 7\BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\лаба 7\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\лаба 7\BANK\obj\Debug\MoreMethods.exe
+C:\Users\Виталий\Desktop\лаба 7\BANK\obj\Debug\MoreMethods.pdb

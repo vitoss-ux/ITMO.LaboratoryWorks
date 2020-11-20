@@ -1,0 +1,6 @@
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\UTILS\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\UTILS\bin\Debug\Utils.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\UTILS\bin\Debug\Utils.pdb
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\UTILS\obj\Debug\Utils.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\CSharpLabs\Lab08\STARTER\UTILS\obj\Debug\Utils.pdb
