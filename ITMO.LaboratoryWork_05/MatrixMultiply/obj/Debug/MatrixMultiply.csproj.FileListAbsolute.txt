@@ -1,0 +1,7 @@
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\bin\Debug\MatrixMultiply.exe.config
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\obj\Debug\MatrixMultiply.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+D:\Изучение C#\Projects\ITMO.LaboratoryWork_05\MatrixMultiply\obj\Debug\MatrixMultiply.pdb
