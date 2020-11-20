@@ -1,0 +1,6 @@
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.pdb
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csprojAssemblyReference.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.pdb

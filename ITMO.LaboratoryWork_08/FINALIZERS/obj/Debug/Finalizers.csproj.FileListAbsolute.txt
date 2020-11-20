@@ -1,0 +1,12 @@
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\FINALIZERS\bin\Debug\Finalizers.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\FINALIZERS\bin\Debug\Finalizers.pdb
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.csprojAssemblyReference.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.exe
+D:\Изучение C#\Лекции ИТМО\Разработка приложений на CS\CSharpLabs\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.pdb
+C:\Users\Виталий\Desktop\ITMO.LaboratoryWork_08\FINALIZERS\bin\Debug\Finalizers.exe
+C:\Users\Виталий\Desktop\ITMO.LaboratoryWork_08\FINALIZERS\bin\Debug\Finalizers.pdb
+C:\Users\Виталий\Desktop\ITMO.LaboratoryWork_08\FINALIZERS\obj\Debug\Finalizers.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\ITMO.LaboratoryWork_08\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\ITMO.LaboratoryWork_08\FINALIZERS\obj\Debug\Finalizers.exe
+C:\Users\Виталий\Desktop\ITMO.LaboratoryWork_08\FINALIZERS\obj\Debug\Finalizers.pdb
